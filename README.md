@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeetb89" alt="jeetb89" /></a> </p>
 
-- 🌱 I’m currently learning **Angular**
-
 - 👯 I’m looking to collaborate on **Projects**
 
 - 🤝 I’m looking for help with **Development**
 
-- 💬 Ask me about **Java FullStack Development**
+- 💬 Ask me about ** FullStack Development**
 
 - 📫 How to reach me **bishtjeet89@gmail.com**
 
